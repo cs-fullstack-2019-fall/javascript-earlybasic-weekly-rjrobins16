@@ -1,7 +1,7 @@
 # javaScript-earlybasic-weekly
 
 ## Weekly Project (Total 10 points)
-Create a program that will give a user the option to count by printing in the console or add/subtract two numbers. Continue doing this until they enter 'q'.
+Using Sublime, create a program that will give a user the option to count by printing in the console or add/subtract two numbers. Continue doing this until they enter 'q'.
 
 ### Phase 1
 
@@ -17,7 +17,9 @@ Ask the user to count by ones.
 Ask the user if they want to use addition.
 - If they select 'a', ask them to enter two numbers. Give them the sum of the numbers.
 
-### Phase 2, add this to the program
+<hr>
+
+### Phase 2
 #### When selecting count by pressing 1 (2 points):
 Ask the user to count by twos.
 - If they select count by twos, ask them to enter a number. Start at 1 and count up to that number in the console log by twos.
