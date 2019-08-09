@@ -3,18 +3,27 @@
 ## Weekly Project (Total 10 points)
 Create a program that will give a user the option to count by printing in the console or add/subtract two numbers. Continue doing this until they enter 'q'.
 
+### Phase 1
+
 #### Ask the user to enter to enter an option, then go to that option (2 points):
 Example:
 "Welcome to Kenn's program. Press 1 to count. Press 2 to use a calculator. Press q to quit".
 
-#### When selecting count by pressing 1 (4 points):
-Ask the user to count by ones or count by twos.
+#### When selecting count by pressing 1 (2 points):
+Ask the user to count by ones.
 - If they select count by ones, ask them to enter a number. Start at 1 and count up to that number in the console log.
+
+#### When selecting use a calculator by pressing 2 (2 points):
+Ask the user if they want to use addition.
+- If they select 'a', ask them to enter two numbers. Give them the sum of the numbers.
+
+### Phase 2, add this to the program
+#### When selecting count by pressing 1 (2 points):
+Ask the user to count by twos.
 - If they select count by twos, ask them to enter a number. Start at 1 and count up to that number in the console log by twos.
 
-#### When selecting use a calculator by pressing 2 (4 points):
-Ask the user if they want to use addition or subtraction.
-- If they select 'a', ask them to enter two numbers. Give them the sum of the numbers.
+#### When selecting use a calculator by pressing 2 (2 points):
+Ask the user if they want to use subtraction.
 - If they select 's', ask them to enter two numbers. Give them the difference of the numbers.
 
 ### Challenge
