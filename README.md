@@ -1,6 +1,6 @@
 # javaScript-earlybasic-weekly
 
-## Weekly Project
+## Weekly Project (Total 10 points)
 Create a program that will give a user the option to count by printing in the console or add/subtract two numbers. Continue doing this until they enter 'q'.
 
 #### Ask the user to enter to enter an option, then go to that option (2 points):
