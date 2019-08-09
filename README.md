@@ -18,7 +18,8 @@ Ask the user if they want to use addition or subtraction.
 - If they select 's', ask them to enter two numbers. Give them the difference of the numbers.
 
 ### Challenge
-- Make sure if the user enters an invalid selection say "ERROR", then retry the question.
+- Ask the user to input the starting number when counting by ones and twos.
+- Make sure if the user enters an invalid selection say "ERROR", then retry the question. This should include an ERROR when a user inserts a smaller second number when counting in the above challenge.
 
 #### Notes
 - It's expected you know how to use Git to push and pull your projects. You will not get ANY points if you push your work after 5pm.
