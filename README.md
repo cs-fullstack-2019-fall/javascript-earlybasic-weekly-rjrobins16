@@ -27,6 +27,7 @@ Ask the user to count by twos.
 #### When selecting use a calculator by pressing 2 (2 points):
 Ask the user if they want to use subtraction.
 - If they select 's', ask them to enter two numbers. Give them the difference of the numbers.
+<hr>
 
 ### Challenge
 - Ask the user to input the starting number when counting by ones and twos.
