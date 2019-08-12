@@ -1,3 +1,5 @@
+It is clear you are mostly getting the concepts, but unfortunately your code would not run. Review Loops and give it another go!
+
 # javaScript-earlybasic-weekly
 
 ## Weekly Project (Total 10 points)
